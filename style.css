@@ -1,0 +1,33 @@
+*
+.thead{
+    background: #F9F9F9;
+    margin-left: 20%;
+}
+.container{
+    max-width: 1200px;
+    margin-inline: auto;
+    margin-top: 85px;
+}
+ .h2{
+width: 152px;
+height: 22px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+color: #000000;
+margin-bottom: 23px;
+text-align: center;
+ }
+  table{
+    border-collapse: collapse;
+ }
+ .thead{
+    background: #FFFFFF;
+ }
+ .button{
+
+ }
+   
+ 
